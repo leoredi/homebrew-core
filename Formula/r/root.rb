@@ -139,7 +139,7 @@ class Root < Formula
       -Dimt=ON
       -Dmathmore=ON
       -Dpyroot=ON
-      -Dpythia8=OFF
+      -Dpythia8=ON
       -Droofit=ON
       -Dssl=ON
       -Dtmva=ON
